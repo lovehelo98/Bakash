@@ -1,0 +1,38 @@
+{
+  "name": "shopup",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovehelo98/ShopUp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovehelo98/ShopUp/issues"
+  },
+  "homepage": "https://github.com/lovehelo98/ShopUp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.14",
+    "multer": "^1.4.2",
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "engines": {
+    "node": "16.3.0",
+    "npm": "7.15.1"
+  }
+}
