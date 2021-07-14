@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lovehelo98/ShopUp.git"
+    "url": "git+https://github.com/lovehelo98/Bakash.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lovehelo98/ShopUp/issues"
+    "url": "https://github.com/lovehelo98/Bakash/issues"
   },
-  "homepage": "https://github.com/lovehelo98/ShopUp#readme",
+  "homepage": "https://github.com/lovehelo98/Bakash#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^10.0.0",
